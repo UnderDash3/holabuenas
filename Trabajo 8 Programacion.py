@@ -1,6 +1,8 @@
 
 import matplotlib.pyplot as plt
 
+
+
 ##lista de las regiones
 
 regiones=["Arica y Parinacota", "Tarapacá", "Antofagasta", "Atacama", "Coquimbo", "Valparaíso", "Metropolitana", "O’Higgins", "Maule", "Ñuble", "Biobío", "Araucanía", "Los Ríos", "Los Lagos", "Aysén", "Magallanes"]
@@ -64,6 +66,7 @@ while opcionUsuario != "3":
     print("Contagiados con sintomas")
 
 ##Grafico 
+
 
 dias = ["1", "2", "3" , "4", "5", "6", "7" , "8" , "9" , "10" , "11" , "12" ,"13" , "14" ] 
 casos = [11 , 44, 35 , 24 , 13, 43, 32,32 , 34, 43, 34 , 12 , 25 ,35 ] 
